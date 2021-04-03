@@ -1,4 +1,4 @@
 # goobye-hello
 
 
-I  :coffee: :pizza:, and :dancer:.
+I like :coffee: :pizza:, and :dancer:.
