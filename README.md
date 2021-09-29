@@ -1,4 +1,4 @@
-# goobye-hello
+# goob-hello
 :sushi:
 :japanese_castle:
 
